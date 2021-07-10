@@ -20,9 +20,6 @@ to be experienced at a live venue or streamed online.
 Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
 
-The physical event will accommodate 150 people.
-
-
 <div style="clear: both"></div>
 
 
