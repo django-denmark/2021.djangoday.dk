@@ -9,11 +9,12 @@ draft: false
 # More to follow
 
 * Website up and running ✅
-* TBD: Ticket sales ⏳
-* TBD: Call for Proposals ⏳
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">FREE STREAMING</span> <span class="badge badge-pill badge-success">VENUE</span> <span class="badge badge-pill badge-success">CORPORATE SUPPORT</span>
+* [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
 
+Djangonauts from in and around Denmark are meeting up for the third edition of
 Django Day, to be held on September 24th 2021. It will be a full day of talks,
-to be experienced at a live venue or streamed online.
+either to be experienced **online -or- at our venue**.
 
 Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
