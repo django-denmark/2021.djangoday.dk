@@ -84,7 +84,6 @@ The location is to be announced, but it'll be walking distance (let us know if t
 
 # Sign up here
 
-
-For non corporate tickets sign up below
+For non corporate tickets please see above
 
 <div class="ticketbutler-iframe" data-type="EVENT" data-domain="djangodenmark.ticketbutler.io" data-slug="django-day-2021"  ></div><script type="text/javascript" src="https://unpkg.com/@ticketbutler/event-embedder@latest/dist/index.js"></script>
