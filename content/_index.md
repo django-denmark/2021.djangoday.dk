@@ -12,8 +12,6 @@ draft: false
 * TBD: Ticket sales ⏳
 * TBD: Call for Proposals ⏳
 
-# Django Day Copenhagen 2021
-
 Django Day, to be held on September 24th 2021. It will be a full day of talks,
 to be experienced at a live venue or streamed online.
 
