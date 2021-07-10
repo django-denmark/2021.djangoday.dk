@@ -12,7 +12,7 @@ this a great day.
 The event will accommodate ~150 people.
 
 First time doing a talk? We want you to submit! It is very understandable and encouraged to ask questions when preparing your
-talk, please don’t hesitate to write benjamin@django-denmark.org.
+talk, please don’t hesitate to write cfp@django-denmark.org.
 
 
 ## Formats 🌈
@@ -50,7 +50,7 @@ If your submission is accepted, you will get a voucher for a free ticket. Lightn
 
 ## Submission 🧐
 
-Submit your proposal by writing: benjamin@django-denmark.org - please include:
+Submit your proposal by writing: cfp@django-denmark.org - please include:
 
 * Talk title
 * Description (50-100 words) + abstract (any length, markdown formatting allowed)
