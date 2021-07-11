@@ -6,10 +6,10 @@ draft: false
 
 ---
 
-# More to follow
+# Latest updates
 
 * Website up and running ✅
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">FREE STREAMING</span> <span class="badge badge-pill badge-success">VENUE</span> <span class="badge badge-pill badge-success">CORPORATE SUPPORT</span>
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">FREE STREAMING</span> <span class="badge badge-pill badge-info">VENUE</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>
 * [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
 
 Djangonauts from in and around Denmark are meeting up for the third edition of
