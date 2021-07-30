@@ -1,5 +1,5 @@
 ---
-title: "Call for Participation"
+title: "Call for Proposals"
 date: "2021-07-07"
 ---
 
