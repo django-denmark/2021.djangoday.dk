@@ -1,6 +1,6 @@
 baseURL = "https://2021.djangoday.dk"
 languageCode = "en-us"
-title = "Django Day Copenhagen 2020"
+title = "Django Day Copenhagen 2021"
 theme = "djangoday"
 
 [taxonomies]
