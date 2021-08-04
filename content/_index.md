@@ -8,7 +8,7 @@ draft: false
 
 # Latest updates
 
-* Talks are incoming and program is taking shape ⏳
+* Program is taking shape, some exciting speakers in and around Denmark are joining ⏳
 * Website up and running ✅
 * [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">FREE STREAMING</span> <span class="badge badge-pill badge-info">VENUE</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>
 * [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
