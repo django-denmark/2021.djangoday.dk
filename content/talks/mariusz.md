@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "Migrations secret powers ⚡"
 date: 2021-08-04T17:10:00+02:00
 talk_date: 2021-09-24T10:00:00+02:00
 talk_by: "Mariusz Felisiak"
@@ -12,4 +12,9 @@ description: "Talk will be announced soon"
 # notes: "andrew.jpeg"
 ---
 
-This talk will be announced soon.
+The migration framework is in Django since version 1.7, it's been 7 year now,
+however it still has powerful abilities that are not widely used and well known.
+
+This talk will discuss how we can use migrations' secret powers in response to
+changing business requirements, and how create less complicated, more robust,
+and requiring less downtime migrations.

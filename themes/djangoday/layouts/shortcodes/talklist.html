@@ -47,3 +47,17 @@
 {{ end }}
 
 {{ end }}
+
+{{ range (seq (sub 9 (len (where (where site.RegularPages.ByDate "Section" "talks") "published" "!=" "false")))) }}
+
+  {{- $original := ((site.GetPage "/talks").Resources.GetMatch "pony.png") -}}
+  {{- $new := "" -}}
+  {{- $new = $original.Fill "150x150" -}}
+  <img src="{{ $new.Permalink }}" alt="Speaker" class="img-speaker float-right" />
+
+  <h2 class="no-link-styling">
+  More exciting speakers to be announced...
+  </h2>
+  <p>Are you interested? We would love you hear from you: [Read more about sending in your proposal](/cfp/) (deadline: August 15th)</p>
+  <div style="clear: both"></div>
+{{ end }}
