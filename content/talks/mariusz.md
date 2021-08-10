@@ -12,9 +12,10 @@ description: "Talk will be announced soon"
 # notes: "andrew.jpeg"
 ---
 
-The migration framework is in Django since version 1.7, it's been 7 year now,
-however it still has powerful abilities that are not widely used and well known.
+The migration framework has been a part of Django since version 1.7.
+That's been 7 year now, however it still has powerful abilities that
+are not widely used and well known.
 
 This talk will discuss how we can use migrations' secret powers in response to
-changing business requirements, and how create less complicated, more robust,
-and requiring less downtime migrations.
+changing business requirements, and how to create less complicated and more robust,
+migrations with less downtime.
