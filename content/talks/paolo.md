@@ -1,7 +1,7 @@
 ---
 title: "Make the most of Django"
 date: 2021-08-04T17:10:00+02:00
-talk_date: 2021-09-24T10:00:00+02:00
+talk_date: 2021-09-24T09:00:00+02:00
 talk_by: "Paolo Melchiorre"
 img_name: "paolo.jpeg"
 remote: false
@@ -25,3 +25,11 @@ know it thoroughly.
 In this talk we will see together the way I found for anyone to take
 full advantage of Django while contributing to its success and that of
 its community.
+
+## About the speaker
+
+I’m Paolo Melchiorre, a longtime Python backend developer who contributes to the Django project and gives talks at tech conferences.
+I’ve been a GNU/Linux user for over 20 years and I use and promote Free Software. I graduated in Software Engineering and I’m an alumnus of the University of Bologna, Italy.
+
+I’ve been working in the web for 15 years and now I’m the CTO of 20tab, a pythonic software company, for which I [work remotely](https://www.paulox.net/tag/remote-work/).
+

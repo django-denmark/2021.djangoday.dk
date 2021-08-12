@@ -19,3 +19,11 @@ are not widely used and well known.
 This talk will discuss how we can use migrations' secret powers in response to
 changing business requirements, and how to create less complicated and more robust,
 migrations with less downtime.
+
+## About the speaker
+
+My name is Mariusz Felisiak, I'm a member of the Django team since 2017. I'm also the
+Django 4.0 and 3.1 release manager, and a Django Fellow since 2019. I have
+greatly enjoyed contributing to more than a dozen open-source projects.
+
+
