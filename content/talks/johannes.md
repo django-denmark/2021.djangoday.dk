@@ -5,6 +5,7 @@ talk_date: 2021-09-24T10:00:00+02:00
 talk_by: "Johannes Wilm"
 img_name: "johannes.png"
 remote: false
+stage: true
 twitter: "johanneswilm"
 description: "Talk will be announced soon"
 # youtube_id: "zAKcwo5Cyw8"

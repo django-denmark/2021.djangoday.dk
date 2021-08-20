@@ -5,6 +5,7 @@ talk_date: 2021-09-24T09:00:00+02:00
 talk_by: "Paolo Melchiorre"
 img_name: "paolo.jpeg"
 remote: false
+stage: true
 twitter: "pauloxnet"
 description: "Talk will be announced soon"
 # youtube_id: "zAKcwo5Cyw8"
