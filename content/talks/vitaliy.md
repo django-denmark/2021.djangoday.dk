@@ -5,6 +5,7 @@ talk_date: 2021-09-24T13:00:00+02:00
 talk_by: "Vitaliy Kucheryaviy"
 img_name: "vitaliy.jpeg"
 remote: false
+stage: true
 twitter: ""
 # github: https://github.com/vitalik
 description: "Django Ninja is a fresh and growing framework for building REST APIs."

@@ -4,6 +4,7 @@ date: 2021-08-04T17:10:00+02:00
 talk_date: 2021-09-24T10:00:00+02:00
 talk_by: "Mariusz Felisiak"
 img_name: "mariusz.png"
+stage: true
 remote: false
 twitter: "MariuszFelisiak"
 description: "Talk will be announced soon"
