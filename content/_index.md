@@ -8,6 +8,7 @@ draft: false
 
 # Latest updates
 
+* Deadline for submitting talks is extended to **August 31st** 🔥
 * Program is taking shape, some exciting speakers in and around Denmark are joining ⏳
 * Website up and running ✅
 * [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">FREE STREAMING</span> <span class="badge badge-pill badge-info">VENUE</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>
