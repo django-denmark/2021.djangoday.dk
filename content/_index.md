@@ -6,13 +6,37 @@ draft: false
 
 ---
 
+# Postponed
+
+Django Day 2021 has been postponed to 2022.
+
+At a crucial juncture in our planning, we have sold too few tickets. We will find a way to ensure that future events are communicated louder to potential attendees.
+
+## Are you coming in 2022?
+
+Please register your intention to participate here:
+
+<form method="POST">
+
+<p>
+<label for="email">Your email:</label><br>
+<input type="email" name="email" id="email">
+</p>
+
+<p><input type="checkbox" id="blah"> <label for="blah">Yes, send me updates about Django Day Copenhagen 2022</label></p>
+
+<p><button type="submit">Register</button></p>
+
+</form>
+
 # Latest updates
 
-* Deadline for submitting talks is extended to **August 31st** 🔥
+* Django Day 2021 is postponed for 2022
+* ~~Deadline for submitting talks is extended to **August 31st** 🔥~~
 * Program is taking shape, some exciting speakers in and around Denmark are joining ⏳
 * Website up and running ✅
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">FREE STREAMING</span> <span class="badge badge-pill badge-info">VENUE</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>
-* [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
+* ~~[Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">FREE STREAMING</span> <span class="badge badge-pill badge-info">VENUE</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>~~
+* ~~[Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>~~
 * Looking for Django Day 2020 videos? [Find them here](https://2020.djangoday.dk/#program)
 
 Djangonauts from in and around Denmark are meeting up for the third edition of
