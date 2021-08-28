@@ -8,9 +8,12 @@ draft: false
 
 # Latest updates
 
+* Deadline for submitting talks is extended to **August 31st** 🔥
+* Program is taking shape, some exciting speakers in and around Denmark are joining ⏳
 * Website up and running ✅
 * [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> <span class="badge badge-pill badge-info">FREE STREAMING</span> <span class="badge badge-pill badge-info">VENUE</span> <span class="badge badge-pill badge-info">CORPORATE SUPPORT</span>
 * [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
+* Looking for Django Day 2020 videos? [Find them here](https://2020.djangoday.dk/#program)
 
 Djangonauts from in and around Denmark are meeting up for the third edition of
 Django Day, to be held on September 24th 2021. It will be a full day of talks,
@@ -35,6 +38,21 @@ The full program will be announced on September 1st. You can
 [submit your proposal](/cfp/) until August 15th.
 
 {{< talklist >}}
+
+
+# Supporters
+<br>
+<a href="https://www.sonofatailor.com/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_son_of_tailor.png"
+command="Fit"
+options="300x100"
+alt="Son of a Tailor"
+class="img-sponsor"
+>}}
+</a>
+
+<div style="clear: both"></div>
 
 # Who are we?
 
