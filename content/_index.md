@@ -39,6 +39,21 @@ The full program was announced September 1st. You could
 
 {{< talklist >}}
 
+
+# Supporters
+<br>
+<a href="https://www.sonofatailor.com/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_son_of_tailor.png"
+command="Fit"
+options="300x100"
+alt="Son of a Tailor"
+class="img-sponsor"
+>}}
+</a>
+
+<div style="clear: both"></div>
+
 # Who are we?
 
 Django Day is brought to you by [Django Denmark](https://www.django-denmark.org/),
