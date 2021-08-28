@@ -1,7 +1,7 @@
 Django Day Copenhagen 2021 website
 ==================================
 
-Live version: https://djangoday.dk
+Live version: https://2021.djangoday.dk
 
 
 Local development
