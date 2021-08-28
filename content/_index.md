@@ -6,11 +6,11 @@ draft: false
 
 ---
 
-# Postponed
+# Postponed ⏭️
 
-Django Day 2021 has been postponed to 2022.
+Django Day 2021 has been postponed to April/May 2022.
 
-At a crucial juncture in our planning, we have sold too few tickets. We will find a way to ensure that future events are communicated louder to potential attendees.
+At a critical juncture in our planning, we have sold too few tickets. We will find a way to ensure that future events are communicated louder to potential attendees.
 
 ## Are you coming in 2022?
 
