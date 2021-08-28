@@ -34,7 +34,7 @@ event, meaning that you won't have to miss anything. The day will end
 with a round of **lightning talks**, which can be submitted on the day of the event,
 and be drawn during the day.
 
-The full program was announced September 1st. You could
+The full program will be announced on September 1st. You can
 [submit your proposal](/cfp/) until August 15th.
 
 {{< talklist >}}
