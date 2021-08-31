@@ -1,6 +1,6 @@
 baseURL = "https://2021.djangoday.dk"
 languageCode = "en-us"
-title = "Django Day Copenhagen 2021"
+title = "Django Day Copenhagen 2021 (postponed)"
 theme = "djangoday"
 
 [taxonomies]
@@ -10,7 +10,7 @@ theme = "djangoday"
   post = "/:filename/"
 
 [params]
-  description = "Djangonauts from in and around Denmark are meeting up for the second edition of Django Day Copenhagen, September 25th 2020"
+  description = "(Postponed to 2022) Djangonauts from in and around Denmark are meeting up for the second edition of Django Day Copenhagen, September 24th 2021"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
